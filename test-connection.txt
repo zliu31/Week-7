@@ -1,0 +1,2 @@
+GitHub connection test - created by Claude
+This file tests the GitHub connection.
